@@ -23,8 +23,8 @@ button:hover {
     background-color: black;
     color: white;
     border-color: white;
-} */
-.paragraph{
+}
+p {
     color: gray;
     font-size: 13px;
     margin-top: 1rem;
