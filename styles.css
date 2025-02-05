@@ -9,7 +9,9 @@ body {
     flex-direction: column;
 }
 .container{
-    margin-top: 1rem;
+    margin-top: 2rem;
+    display: flex;
+    gap: 10px;
 }
 p {
     color: gray;
