@@ -24,7 +24,7 @@ p {
     border-radius: 20px;
     box-shadow: 2px 2px 50px 2px rgb(31, 29, 29);
 }
-.btn , .btn button {
+.btn {
     cursor: pointer;
     padding: 15px 20px;
     border-radius: 10px;
