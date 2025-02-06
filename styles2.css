@@ -7,7 +7,7 @@ body {
     position: relative;
     width: 100%;
     max-width: 960px; /* Similar to YouTube's default width */
-    aspect-ratio: 16 / 9; /* Ensures 16:9 aspect ratio */
+    aspect-ratio: 9/1; /* Ensures 16:9 aspect ratio */
     margin: auto;
 }
 .heading{
